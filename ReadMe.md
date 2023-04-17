@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'am doing Full Stack Development and also learning <br>about Aartificial Intelligence <br><br>Having an exprience of Embedded C and Front End Development<br><br>Connect me on - kelvinptelwork@gmail.com<br><br>
+I'am doing Full Stack Development and also learning <br>about Artificial Intelligence <br><br>Having an exprience of Embedded C and Front End Development<br><br>Connect me on - kelvinptelwork@gmail.com<br><br>
 
 
 ## 🌐 Socials:
