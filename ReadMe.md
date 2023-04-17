@@ -1,7 +1,11 @@
 # 💫 About Me:
 Hi! I’m Gevariya Kelvin, a computer science student at Vellore Institute of Technology in Bhopal. I have technical skills in MERN Stack, Java, SQL and Python. I am also certified as an AWS Cloud Practitioner Essential by Future skills Prime.
 
-I have worked on several academic projects including an agricultural information website and a corridor management web app for emergency services. In addition to my academic pursuits, I have completed industry-oriented training in Embedded System, Internet of Things and Matlab at Cranes Varsity.<br><br>Connect me on - kelvinptelwork@gmail.com<br><br>
+🎗️ I have worked on several academic projects including an agricultural information website and a corridor management web app for emergency services. In addition to my academic pursuits, I have completed industry-oriented training in Embedded System, Internet of Things and Matlab at Cranes Varsity.
+
+🎹 Outside of my studies and technical work, I am an enthusiastic musician and enjoy long bike rides.
+
+<br><br>Connect me on - kelvinptelwork@gmail.com<br><br>
 
 
 ## 🌐 Socials:
