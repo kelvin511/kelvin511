@@ -13,7 +13,7 @@ Hi! I'm Gevariya Kelvin, a full-stack software engineer specializing in **Medusa
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kelvin511&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kelvin511&theme=nightowl&hide_border=true)<br/>
+![](https://github-readme-streak-stats.demolab.com/?user=kelvin511&theme=nightowl&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin511&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 ---
 [![](https://visitcount.itsvg.in/api?id=kelvin511&icon=0&color=0)](https://visitcount.itsvg.in)
