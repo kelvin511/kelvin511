@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi! I'm Gevariya Kelvin, a full-stack software engineer specializing in **MedusaJS v2** and **MercurJS** — I build and ship production ecommerce and marketplace platforms end-to-end, from data models and APIs to payments and deployment. Broader stack: React, Next.js, Node.js, TypeScript, PostgreSQL.
-🎗️ I delivered a live B2C ecommerce platform (Saffro Mellow) as sole developer with 8+ third-party integrations, and I'm currently building a multi-tenant B2B marketplace with custom modules beyond framework defaults.
+🎗️ I delivered a live B2C ecommerce platform as sole developer with 8+ third-party integrations, and I'm currently building a multi-tenant B2B marketplace with custom modules beyond framework defaults.
 🎹 Outside of work, I am an enthusiastic musician and enjoy long bike rides.
 <br><br>Connect me on - kelvinpatelwork@gmail.com<br><br>
 ## 🌐 Socials:
