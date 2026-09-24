@@ -4,7 +4,7 @@ Hi! I'm Gevariya Kelvin, a full-stack software engineer specializing in **Medusa
 🎹 Outside of work, I am an enthusiastic musician and enjoy long bike rides.
 ## 🔧 Open Source:
 
-Open PR fixing an RBAC field-filtering bug in Medusa core: [medusajs/medusa#16372](https://github.com/medusajs/medusa/pull/16372)
+Medusa core: [medusajs/medusa](https://github.com/medusajs/medusa)
 
 <br><br>Connect me on - kelvinpatelwork@gmail.com<br><br>
 ## 🌐 Socials:
